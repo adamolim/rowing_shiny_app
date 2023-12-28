@@ -1,0 +1,3 @@
+Bateaux que km: mais avec données cumulées
+
+Disciplines: graphique de cluster avec les pourcentage entre sweepers et scullers
